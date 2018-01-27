@@ -1,0 +1,26 @@
+.navbar-inverse {
+	backgorund-color: #1a1449;
+	font-size:11px;
+}
+body{
+	background: url('img/tinggi.jpg')no-repeat scroll;
+	background-size: 100% 100%;
+	min-height: 700px
+}
+.jumbotron {
+	background-color: transparent;
+	color: #c4c1ec;
+}
+.kotaknya{
+	min-height: 500px;
+	height: auto;
+}
+
+#carousel-example-generi{
+	width: 483;
+	
+}
+#kontakku{
+	width: 35px; margin-top: 10px;
+	 
+}
